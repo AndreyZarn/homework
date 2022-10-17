@@ -4,7 +4,6 @@
 
 
 int[] arr = new int[8];
-//arr[8] = new Random().Next(1,100);
 void Ind (int[] arr)
 {
     for (int i = 0; i<arr.Length; i++)
